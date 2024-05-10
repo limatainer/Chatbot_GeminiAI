@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F6F753&width=700&lines=Hello%2C+this+is+Mariana+Lima;I'm+a+FullStack+Web+Developer))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F6F753&width=700&lines=Ola%2C+sou+a+Mariana+Lima))](https://git.io/typing-svg)
 ### Olá 👩🏻‍💻
 
 
