@@ -1,4 +1,4 @@
-# Welcome to the Gemini AI Chatbot Project 👩🏻‍💻
+# Welcome to my Python - Gemini AI Chatbot Project 👩🏻‍💻
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F6F753&width=700&lines=Welcome+please+give+it+a+star)
 
@@ -40,7 +40,7 @@ The primary goal of this project is to provide a simple yet effective starting p
 
 You can download the code directly from this repository. To do so, click on the following link:
 
-- [Download Code](link-to-your-code-repository)
+- [Download Code](https://github.com/limatainer/Chatbot_GeminiAI/blob/main/Chatbot_Gemini.ipynb)
 
 ## Contributing
 
